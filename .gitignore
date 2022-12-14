@@ -16,7 +16,6 @@
 /build
 
 # misc
-.DS_Store
 *.pem
 
 # debug
@@ -29,7 +28,6 @@ yarn-error.log*
 .env*.local
 
 # vercel
-.vercel
 
 # typescript
 *.tsbuildinfo
